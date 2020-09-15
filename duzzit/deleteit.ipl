@@ -1,0 +1,11 @@
+component "deleteit" {
+    inputs ()
+    outputs ("success":bool, 
+            "error":text)
+    {
+        /* Step 1 */
+        {
+        }
+
+    }
+}
