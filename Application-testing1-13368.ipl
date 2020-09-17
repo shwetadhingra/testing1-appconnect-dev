@@ -16,7 +16,8 @@
   <GitHubRepoUrl>git://github.com/shwetadhingra/testing1-appconnect-dev.git</GitHubRepoUrl>
   <ChangedBy>system</ChangedBy>
   <IsSubscribable>false</IsSubscribable>
-  <ChangedDate>2020-09-15T14:35:27</ChangedDate>
+  <GitHubEnabled>true</GitHubEnabled>
+  <ChangedDate>2020-09-15T14:35:34</ChangedDate>
   <AuthType>Unconnected</AuthType>
   <RuleActionCategoryId></RuleActionCategoryId>
   <ImportMessage></ImportMessage>
@@ -31,7 +32,6 @@
   <ImageURL></ImageURL>
   <DevConsumerKey>AD13368</DevConsumerKey>
   <EnvironmentId>505332</EnvironmentId>
-  <gitHubEnabled>true</gitHubEnabled>
   <ApplicationVersion>
    <MajorVersion>0</MajorVersion>
    <hasAction>false</hasAction>
@@ -66,6 +66,108 @@
     <ChangedBy>837c5073-8357-43ab-861e-82fcb2775e27</ChangedBy>
    </ProductRuleSet>
   </ApplicationVersion>
+  <ApplicationVersion>
+   <MajorVersion>1</MajorVersion>
+   <hasAction>false</hasAction>
+   <Name>testing1</Name>
+   <ReleaseState>PRIVATE</ReleaseState>
+   <VersionNotes>v1release</VersionNotes>
+   <hasEvent>false</hasEvent>
+   <SuccessHtml></SuccessHtml>
+   <WelcomeHtml></WelcomeHtml>
+   <AppLandingPage></AppLandingPage>
+   <ChangedDate>2020-09-16T19:31:32</ChangedDate>
+   <ReturnHtml></ReturnHtml>
+   <CreatedDate>2020-09-16T19:31:32</CreatedDate>
+   <MinorVersion>0</MinorVersion>
+   <GitHubPRUrl></GitHubPRUrl>
+   <ChangedBy>837c5073-8357-43ab-861e-82fcb2775e27</ChangedBy>
+   <Active>true</Active>
+   <EnvironmentId>505332</EnvironmentId>
+   <ProductId key="true">13371</ProductId>
+   <CreatedBy>837c5073-8357-43ab-861e-82fcb2775e27</CreatedBy>
+   <IntuitApplicationId>13368</IntuitApplicationId>
+   <ProductRuleSet>
+    <RuleSetType>DEFAULT</RuleSetType>
+    <CreatedBy>system</CreatedBy>
+    <ChangedDate>2020-09-16T19:31:32</ChangedDate>
+    <CreatedDate>2020-09-16T19:31:32</CreatedDate>
+    <ProductId key="true">13371</ProductId>
+    <RuleSetSubType></RuleSetSubType>
+    <RunWhenActivated>false</RunWhenActivated>
+    <RunWhenSettingsChanged>false</RunWhenSettingsChanged>
+    <RuleSetId key="true">520855</RuleSetId>
+    <ChangedBy>system</ChangedBy>
+   </ProductRuleSet>
+  </ApplicationVersion>
+  <ApplicationVersion>
+   <MajorVersion>2</MajorVersion>
+   <hasAction>false</hasAction>
+   <Name>testing1</Name>
+   <ReleaseState>PRIVATE</ReleaseState>
+   <VersionNotes>v2re</VersionNotes>
+   <hasEvent>false</hasEvent>
+   <SuccessHtml></SuccessHtml>
+   <WelcomeHtml></WelcomeHtml>
+   <AppLandingPage></AppLandingPage>
+   <ChangedDate>2020-09-16T19:34:53</ChangedDate>
+   <ReturnHtml></ReturnHtml>
+   <CreatedDate>2020-09-16T19:34:53</CreatedDate>
+   <MinorVersion>0</MinorVersion>
+   <GitHubPRUrl></GitHubPRUrl>
+   <ChangedBy>837c5073-8357-43ab-861e-82fcb2775e27</ChangedBy>
+   <Active>true</Active>
+   <EnvironmentId>505332</EnvironmentId>
+   <ProductId key="true">13372</ProductId>
+   <CreatedBy>837c5073-8357-43ab-861e-82fcb2775e27</CreatedBy>
+   <IntuitApplicationId>13368</IntuitApplicationId>
+   <ProductRuleSet>
+    <RuleSetType>DEFAULT</RuleSetType>
+    <CreatedBy>system</CreatedBy>
+    <ChangedDate>2020-09-16T19:34:53</ChangedDate>
+    <CreatedDate>2020-09-16T19:34:53</CreatedDate>
+    <ProductId key="true">13372</ProductId>
+    <RuleSetSubType></RuleSetSubType>
+    <RunWhenActivated>false</RunWhenActivated>
+    <RunWhenSettingsChanged>false</RunWhenSettingsChanged>
+    <RuleSetId key="true">520856</RuleSetId>
+    <ChangedBy>system</ChangedBy>
+   </ProductRuleSet>
+  </ApplicationVersion>
+  <ApplicationVersion>
+   <MajorVersion>3</MajorVersion>
+   <hasAction>false</hasAction>
+   <Name>testing1</Name>
+   <ReleaseState>PRIVATE</ReleaseState>
+   <VersionNotes>v3</VersionNotes>
+   <hasEvent>false</hasEvent>
+   <SuccessHtml></SuccessHtml>
+   <WelcomeHtml></WelcomeHtml>
+   <AppLandingPage></AppLandingPage>
+   <ChangedDate>2020-09-16T19:43:14</ChangedDate>
+   <ReturnHtml></ReturnHtml>
+   <CreatedDate>2020-09-16T19:43:14</CreatedDate>
+   <MinorVersion>0</MinorVersion>
+   <GitHubPRUrl></GitHubPRUrl>
+   <ChangedBy>837c5073-8357-43ab-861e-82fcb2775e27</ChangedBy>
+   <Active>true</Active>
+   <EnvironmentId>505332</EnvironmentId>
+   <ProductId key="true">13373</ProductId>
+   <CreatedBy>837c5073-8357-43ab-861e-82fcb2775e27</CreatedBy>
+   <IntuitApplicationId>13368</IntuitApplicationId>
+   <ProductRuleSet>
+    <RuleSetType>DEFAULT</RuleSetType>
+    <CreatedBy>system</CreatedBy>
+    <ChangedDate>2020-09-16T19:43:14</ChangedDate>
+    <CreatedDate>2020-09-16T19:43:14</CreatedDate>
+    <ProductId key="true">13373</ProductId>
+    <RuleSetSubType></RuleSetSubType>
+    <RunWhenActivated>false</RunWhenActivated>
+    <RunWhenSettingsChanged>false</RunWhenSettingsChanged>
+    <RuleSetId key="true">520857</RuleSetId>
+    <ChangedBy>system</ChangedBy>
+   </ProductRuleSet>
+  </ApplicationVersion>
  </IntuitApplication>
  <RuleSet>
   <PollingUniqueIdName></PollingUniqueIdName>
@@ -73,7 +175,7 @@
   <Operation></Operation>
   <RunModeSubscribedUser>false</RunModeSubscribedUser>
   <GroupSequence>0</GroupSequence>
-  <FirstPublishDate></FirstPublishDate>
+  <FirstPublishDate>2020-09-16T19:28:00</FirstPublishDate>
   <ApiGatewayRequired>false</ApiGatewayRequired>
   <Status>ACTIVE</Status>
   <EventAction>NONE</EventAction>
@@ -82,7 +184,7 @@
   <CopiedFromRsId></CopiedFromRsId>
   <EntityType></EntityType>
   <RunModeEmail>false</RunModeEmail>
-  <ModifiedDate>2020-09-04T00:37:35</ModifiedDate>
+  <ModifiedDate>2020-09-16T19:28:00</ModifiedDate>
   <OutputContentType></OutputContentType>
   <InputSourceEntityId></InputSourceEntityId>
   <CreateUser>false</CreateUser>
@@ -96,19 +198,19 @@
   <WhoCanEdit></WhoCanEdit>
   <RuleLogging>0</RuleLogging>
   <EntityDescriptionField></EntityDescriptionField>
-  <EventActionSub></EventActionSub>
+  <EventActionSub>NONE</EventActionSub>
   <OutputSourceEntityId></OutputSourceEntityId>
   <RunModeFile>false</RunModeFile>
   <PrimaryAd></PrimaryAd>
-  <RunModeDatasource>false</RunModeDatasource>
+  <RunModeDatasource>true</RunModeDatasource>
   <ButtonText></ButtonText>
   <RuleActionCategoryIdFrom></RuleActionCategoryIdFrom>
-  <Classification>NONE</Classification>
+  <Classification>SOLUTION</Classification>
   <CacheResults>false</CacheResults>
   <ProductionCopy>false</ProductionCopy>
   <UrlContext></UrlContext>
-  <ChangedBy>837c5073-8357-43ab-861e-82fcb2775e27</ChangedBy>
-  <ChangedDate>2020-09-04T00:37:35</ChangedDate>
+  <ChangedBy>system</ChangedBy>
+  <ChangedDate>2020-09-16T19:28:00</ChangedDate>
   <HttpStatusCodeOnError>400</HttpStatusCodeOnError>
   <Header></Header>
   <ImportedFrom></ImportedFrom>
@@ -119,14 +221,14 @@
   <DatasourceName></DatasourceName>
   <RunModeEmbeddedRule>true</RunModeEmbeddedRule>
   <Footer></Footer>
-  <LastPublishDate></LastPublishDate>
-  <concurrentExecutionMax></concurrentExecutionMax>
+  <LastPublishDate>2020-09-16T19:28:00</LastPublishDate>
+  <concurrentExecutionMax>1</concurrentExecutionMax>
   <ClassificationConnector>NONE</ClassificationConnector>
   <SaveStrategy></SaveStrategy>
   <RunModeWebPage>true</RunModeWebPage>
   <EntityIdField></EntityIdField>
   <CachePerUser>false</CachePerUser>
-  <RuleSetName>deleteit</RuleSetName>
+  <RuleSetName>delete it</RuleSetName>
   <SuppressAds>false</SuppressAds>
   <PublishBy></PublishBy>
   <RunModeRequiresAuth>true</RunModeRequiresAuth>
